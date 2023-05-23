@@ -1,6 +1,6 @@
 # AnySpeak
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="" alt="osTicket logo"/>
 </p>
 
 AnySpeak is a language translation app that allows users to easily translate text between multiple languages.
