@@ -8,7 +8,7 @@ AnySpeak is a language translation app that allows users to easily translate tex
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE.txt). 
-[] retains all intellectual property rights over the code in this repository.
+[Github user zdadams1] retains all intellectual property rights over the code in this repository.
 
 ## Features
 
