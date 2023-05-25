@@ -16,12 +16,8 @@ This project is licensed under the terms of the [MIT License](LICENSE.txt).
   - Input your language, start a conversation, select the language of the person you want to speak to and hit start.
   - Decects input language then speaks in the other language while saving each line in both languages in text-message style
 
-## Getting Started
-Download on the app store: Coming soon
 
-<h1>Setup</h1>
--
--
+Download on the app store: Coming soon
 
 <h2>Environments and Technologies Used</h2>
 
