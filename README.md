@@ -14,7 +14,7 @@ This project is licensed under the terms of the [MIT License](LICENSE.txt).
 
   - Easily speak to anyone in x languages
   - Input your language, start a conversation, select the language of the person you want to speak to and hit start.
-  - Decects input language then speaks in the other language while saving each line in both languages in text-message style
+  - Detects input language then speaks in the other language while saving each line in both languages in text-message style
 
 
 Download on the app store: Coming soon
@@ -24,4 +24,21 @@ Download on the app store: Coming soon
 - React Native
 - MongoDB
 - Internet Information Services (IIS)
+Privacy Policy for AnySpeak
+We respect and are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your options regarding information we may collect about you.
+
+What information we collect
+Our app, AnySpeak, only collects your API key. This is stored locally on your device and is necessary for the functioning of the app.
+
+How we use your information
+We use the stored API key to authenticate requests made from the app to the relevant servers. We do not use this information for any other purpose.
+
+Storage of your information
+Your API key is stored locally on your device. We do not transmit or store this information on any of our servers or elsewhere outside of your device.
+
+Control over your information
+At any time, you can remove the API key from your device through the app settings. This will erase the data completely from your device.
+
+Changes to our privacy policy
+We may modify or update our Privacy Policy from time to time, so please review it periodically. We may provide you with notice of modifications to the policy as appropriate under the circumstances. Your continued use of AnySpeak after any modification to this Privacy Policy will constitute your acceptance of such modifications.
 
