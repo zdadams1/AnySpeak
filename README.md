@@ -1,10 +1,9 @@
 # AnySpeak
+Language translation app that allows users to easily translate text between multiple languages.
 <p align="center">
 <img src="https://i.imgur.com/IkUqWJS.jpg" alt="Andromasoft logo" width="200"/>
 <img src="https://i.imgur.com/leJvsmO.jpg" alt="Andromasoft logo" width="200"/>
 </p>
-
-AnySpeak is a language translation app that allows users to easily translate text between multiple languages.
 
 ## License
 
@@ -17,8 +16,7 @@ This project is licensed under the terms of the [MIT License](LICENSE.txt).
   - Input your language, start a conversation, select the language of the person you want to speak to and hit start.
   - Detects input language then speaks in the other language while saving each line in both languages in text-message style
 
-
-Download on the app store: Coming soon
+Download on the app store: 7/1/2023ish
 
 <h2>Environments and Technologies Used</h2>
 
