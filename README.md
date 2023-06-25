@@ -23,6 +23,7 @@ Download on the app store: 7/1/2023ish
 - React Native
 - MongoDB
 - Internet Information Services (IIS)
+  
 Privacy Policy for AnySpeak
 We respect and are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your options regarding information we may collect about you.
 
