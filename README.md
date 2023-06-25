@@ -1,6 +1,7 @@
 # AnySpeak
 <p align="center">
-<img src="" alt="Andromasoft logo"/>
+<img src="https://i.imgur.com/IkUqWJS.jpg" alt="Andromasoft logo"/>
+<img src="https://i.imgur.com/leJvsmO.jpg" alt="Andromasoft logo"/>
 </p>
 
 AnySpeak is a language translation app that allows users to easily translate text between multiple languages.
