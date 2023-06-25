@@ -16,7 +16,7 @@ This project is licensed under the terms of the [MIT License](LICENSE.txt).
   - Input your language, select their language, and hit start.
   - Detects input voice language then speaks in the other language while saving each line in both languages in text-message style
 
-Download on Google Play: 7/1/2023ish
+Pending approval on Google Play, ETA around 7/1/2023
 
 <h2>Environments and Technologies Used</h2>
 
