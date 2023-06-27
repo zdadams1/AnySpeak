@@ -9,7 +9,7 @@ Bilingual conversation app.
 ## Features
 
   - Easily speak to anyone in 50 languages
-  - Input your language, select their language, and hit CHAT.
+  - Input your language at first-time setup, then select their language and hit SPEAK. No changing directions, one simple tap per conversation piece.
   - Detects input voice language then speaks in the other language while saving each line in both languages in text-message style. Currently limited to 5 second voice inputs.
   - Your OpenAi API key is saved locally to your phone, but not anywhere else. If your device gets compromised for some non-related reason, be sure to disable your api key in OpenAi, and generate a new one in case the perpetrator stole your key.
 
