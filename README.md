@@ -11,7 +11,7 @@ Bilingual conversation app.
   - Easily speak to anyone in 50 languages
   - Input your language, select their language, and hit CHAT.
   - Detects input voice language then speaks in the other language while saving each line in both languages in text-message style. Currently limited to 5 second voice inputs.
-  - Your OpenAi API key is saved locally to your phone, but not anywhere else. If your device gets compromised, be sure to disable your api key in OpenAi, and generate a new one in case the perpetrator stole your key.
+  - Your OpenAi API key is saved locally to your phone, but not anywhere else. If your device gets compromised for some non-related reason, be sure to disable your api key in OpenAi, and generate a new one in case the perpetrator stole your key.
 
 Pending approval on Google Play, ETA around 7/1/2023, App Store for Apple TBA
 
