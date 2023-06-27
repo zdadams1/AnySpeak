@@ -6,11 +6,6 @@ Bilingual conversation app supporting 50 languages.
 <img src="https://i.imgur.com/leJvsmO.jpg" alt="Andromasoft logo" width="200"/>
 </p>
 
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE.txt). 
-[Github user zdadams1] retains all intellectual property rights over the code in this repository and other content distribution sources.
-
 ## Features
 
   - Easily speak to anyone in 50 languages
