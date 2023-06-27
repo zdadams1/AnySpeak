@@ -1,5 +1,5 @@
 # AnySpeak
-Bilingual conversation app supporting 50 languages.
+Bilingual conversation app.
 <p align="center">
   <img src="https://i.imgur.com/ndfE3q9.jpg" alt="Andromasoft logo" width="200"/>
 <img src="https://i.imgur.com/bpI2kpj.jpg" alt="Andromasoft logo" width="200"/>
@@ -9,8 +9,8 @@ Bilingual conversation app supporting 50 languages.
 ## Features
 
   - Easily speak to anyone in 50 languages
-  - Input your language, select their language, and hit start.
-  - Detects input voice language then speaks in the other language while saving each line in both languages in text-message style
+  - Input your language, select their language, and hit CHAT.
+  - Detects input voice language then speaks in the other language while saving each line in both languages in text-message. Currently limited to 5 second voice inputs. style
 
 Pending approval on Google Play, ETA around 7/1/2023
 
