@@ -10,7 +10,7 @@ Bilingual conversation app.
 
   - Easily speak to anyone in 50 languages
   - Input your language, select their language, and hit CHAT.
-  - Detects input voice language then speaks in the other language while saving each line in both languages in text-message. Currently limited to 5 second voice inputs. style
+  - Detects input voice language then speaks in the other language while saving each line in both languages in text-message. Currently limited to 5 second voice inputs.
 
 Pending approval on Google Play, ETA around 7/1/2023
 
