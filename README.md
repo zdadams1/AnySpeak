@@ -8,7 +8,7 @@ Language translation app that allows users to easily translate text between mult
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE.txt). 
-[Github user zdadams1] retains all intellectual property rights over the code in this repository.
+[Github user zdadams1] retains all intellectual property rights over the code in this repository and other content distribution sources.
 
 ## Features
 
@@ -42,4 +42,56 @@ At any time, you can remove the API key from your device through the app setting
 
 Changes to our privacy policy
 We may modify or update our Privacy Policy from time to time, so please review it periodically. We may provide you with notice of modifications to the policy as appropriate under the circumstances. Your continued use of AnySpeak after any modification to this Privacy Policy will constitute your acceptance of such modifications.
+
+AnySpeak License Agreement
+
+Version 1.0, [2023]
+
+IMPORTANT: READ CAREFULLY BEFORE USING THE ANYSPEAK SOFTWARE (THE "SOFTWARE").
+
+This AnySpeak License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and [Your Name] ("Licensor") for the use of the AnySpeak software, which includes computer software, associated media, printed materials, and online or electronic documentation (collectively, the "Software").
+
+By installing or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
+
+License Grant
+-------------
+
+Subject to the terms and conditions of this Agreement, Licensor hereby grants you a non-exclusive, non-transferable license to use the Software solely for non-commercial purposes. You may install and use the Software on a device owned, leased, or otherwise controlled by you.
+
+Restrictions
+------------
+
+You may not:
+
+1. Use the Software for commercial purposes, including, but not limited to, selling or distributing any output or derivative works based on the Software.
+2. Modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+3. Remove or modify any proprietary notices, labels, or marks from the Software.
+4. Share, distribute, sublicense, or transfer the Software to any third party.
+
+Ownership
+---------
+
+Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein. This Agreement does not grant you any rights to trademarks or service marks of the Licensor.
+
+Disclaimer of Warranty
+----------------------
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+Limitation of Liability
+-----------------------
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+General
+-------
+
+This Agreement constitutes the entire agreement between you and Licensor with respect to the Software and supersedes all prior or contemporaneous agreements, understandings, or representations.
+
+If any provision of this Agreement is held to be unenforceable, that provision shall be construed, limited, modified, or, if necessary, severed, to the extent necessary, to eliminate its unenforceability, and the other provisions of this Agreement shall remain unaffected.
+
+This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State]. Any dispute arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts located in [Your Country/State].
+
+By installing or using the Software, you acknowledge that you have read and understand this Agreement and agree to be bound by its terms and conditions.
+
 
