@@ -2,7 +2,7 @@
 Language translation app that allows users to easily translate text between multiple languages.
 <p align="center">
   <img src="https://i.imgur.com/ndfE3q9.jpg" alt="Andromasoft logo" width="200"/>
-<img src="https://i.imgur.com/IkUqWJS.jpg" alt="Andromasoft logo" width="200"/>
+<img src="https://i.imgur.com/bpI2kpj.jpg" alt="Andromasoft logo" width="200"/>
 <img src="https://i.imgur.com/leJvsmO.jpg" alt="Andromasoft logo" width="200"/>
 </p>
 
