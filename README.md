@@ -25,7 +25,7 @@ Pending approval on Google Play, ETA around 7/1/2023, App Store for Apple TBA
 
 <h2>Environments and Technologies Used</h2>
 
-- React Native
+- React Native(Android + IOS code)
   
 <h2>Privacy Policy</h2>
 
