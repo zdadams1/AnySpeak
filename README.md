@@ -21,7 +21,7 @@ Bilingual conversation app.
  sure to disable your api key in OpenAi, and generate a new one in 
  case the perpetrator stole your key. Update your key in the app by tapping the cogwheel in the top right.
 
-Pending approval on Google Play, ETA around 7/1/2023, App Store for Apple TBA
+Download on <a href='https://play.google.com/store/apps/details?id=com.anyspeak&hl=en&gl=US'>Google Play</a>, App Store for Apple TBA
 
 <h2>Environments and Technologies Used</h2>
 
